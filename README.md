@@ -21,7 +21,7 @@ Of course, not all drones are the same size. For this reason, users may which to
 
 The repo has two folders `docs` for images and `CAD` for `.prt` files. The top-level assembly is [here](CAD/OCR3_assy_withHook.prt). It has three main subassemblies which are shown below: 
 
-[Sub-assemblies](docs/OCR3_assy_MajorSubs.png)
+![Sub-assemblies](docs/OCR3_assy_MajorSubs.png)
 
 
 
