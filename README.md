@@ -9,11 +9,11 @@ This repo contains CAD files (made using NX12) to design and manufacture an over
 
 This can be used to test aerial manipulation control approaches. It can be easily adjusted for vertical or fully "3D" testing. An example of a vertical flight test can be seen in [1], which is shown below: 
 
-![A vertical overcentre experiment](docs/icm-experiment.png)
+![A vertical overcentre experiment](docs/icm_experiment.png)
 
 Further to this, [1] discusses the utility of the mechanism in the context of AM testing. An example of a controller which can smoothly manipulate the mechanism can be seen in [2], for which the experiment is shown below: 
 
-![A 3D experiment using an overcentre](docs/rdo-experiment.png)
+![A 3D experiment using an overcentre](docs/rdo_experiment.png)
 
 Of course, not all drones are the same size. For this reason, users may which to resize the mechanism for their available platforms. This process is detailed in [3], which will be added as soon as it is available.
 
