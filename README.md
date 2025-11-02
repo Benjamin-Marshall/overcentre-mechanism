@@ -5,17 +5,25 @@ This repository contains the CAD files for an Overcentre Mechanism. This is a tu
 
 This repo contains CAD files (made using NX12) to design and manufacture an overcentre mechanism, which looks like this: 
 
-![[docs/overcentre-down.png]]
+![An overcentre mechanism with one side removed](docs/overcentre-down.png)
 
 This can be used to test aerial manipulation control approaches. It can be easily adjusted for vertical or fully "3D" testing. An example of a vertical flight test can be seen in [1], which is shown below: 
 
-![[docs/icm-experiment.png]]
+![A vertical overcentre experiment](docs/icm-experiment.png)
 
 Further to this, [1] discusses the utility of the mechanism in the context of AM testing. An example of a controller which can smoothly manipulate the mechanism can be seen in [2], for which the experiment is shown below: 
 
-![[docs/rdo-experiment.png]]
+![A 3D experiment using an overcentre](docs/rdo-experiment.png)
 
 Of course, not all drones are the same size. For this reason, users may which to resize the mechanism for their available platforms. This process is detailed in [3], which will be added as soon as it is available.
+
+# REPO Organisation
+
+The repo has two folders `docs` for images and `CAD` for `.prt` files. The top-level assembly is [here](CAD/OCR3_assy_withHook.prt). It has three main subassemblies which are shown below: 
+
+[Sub-assemblies](docs/OCR3_assy_MajorSubs.png)
+
+
 
 
 # Relevant Documents: 
